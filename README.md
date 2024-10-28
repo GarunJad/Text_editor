@@ -1,3 +1,5 @@
+TEXT EDITOR(CPP) 
+
 This repository contains a program that implements a text editor using Linked List and Stack data structures.
 
 Each line of text is stored in a node of the linked list, which consists of the text and a pointer to the next line of text. This program has many useful features to help users in various ways. The parsing of each line into a linked list allows users to easily process their text.
